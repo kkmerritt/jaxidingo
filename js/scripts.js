@@ -7,6 +7,7 @@
 // Scripts
 // 
 
+console.log("go fuck yourself")
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
